@@ -1,13 +1,13 @@
 {
- "version": "1.0.49",
- "build": 58,
- "url": "https://github.com/Dino12138/shiguangmao-releases/releases/download/v1.0.49/ShiGuangMao-1.0.49.dmg",
- "sha256": "580eae76aaf66cc79fefed3edc6010658ef10ff6646afc163d00516147c54212",
- "notes": "截图时不再隐藏拾光猫自己的窗口；遇到设置了禁止截图的窗口（如微信部分窗口）会提示原因；更新后第一页显示本次更新内容。",
+ "version": "1.0.50",
+ "build": 59,
+ "url": "https://github.com/Dino12138/shiguangmao-releases/releases/download/v1.0.50/ShiGuangMao-1.0.50.dmg",
+ "sha256": "56d89393b53af88ba03123fc24350d72285e85e8269eab1b8ddb6dce9cff25c8",
+ "notes": "紧急修复：1.0.49 一截图就闪退的问题，请尽快更新。",
  "mirrors": [
-  "https://gcore.jsdelivr.net/gh/Dino12138/shiguangmao-releases@main/dist/ShiGuangMao-1.0.49.dmg",
-  "https://fastly.jsdelivr.net/gh/Dino12138/shiguangmao-releases@main/dist/ShiGuangMao-1.0.49.dmg",
-  "https://cdn.jsdelivr.net/gh/Dino12138/shiguangmao-releases@main/dist/ShiGuangMao-1.0.49.dmg"
+  "https://gcore.jsdelivr.net/gh/Dino12138/shiguangmao-releases@main/dist/ShiGuangMao-1.0.50.dmg",
+  "https://fastly.jsdelivr.net/gh/Dino12138/shiguangmao-releases@main/dist/ShiGuangMao-1.0.50.dmg",
+  "https://cdn.jsdelivr.net/gh/Dino12138/shiguangmao-releases@main/dist/ShiGuangMao-1.0.50.dmg"
  ],
- "size": 15687598
+ "size": 15686522
 }
