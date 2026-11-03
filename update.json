@@ -1,13 +1,13 @@
 {
- "version": "1.0.53",
- "build": 62,
- "url": "https://github.com/Dino12138/shiguangmao-releases/releases/download/v1.0.53/ShiGuangMao-1.0.53.dmg",
- "sha256": "c17652d1e9b8b11e8bbb0088bfedb47aa213cb97539b7027f363fd5cc24c7c30",
- "notes": "截图文字工具：回车换行，⌘回车或点别处完成；长文字自动折行",
+ "version": "1.0.54",
+ "build": 63,
+ "url": "https://github.com/Dino12138/shiguangmao-releases/releases/download/v1.0.54/ShiGuangMao-1.0.54.dmg",
+ "sha256": "51ebad5943be1248234caebaf9f94851838f82f06a088bb0127517ce5490111f",
+ "notes": "截图里的备注、步骤文案也支持回车换行，⌘回车或 Esc 完成",
  "mirrors": [
-  "https://gcore.jsdelivr.net/gh/Dino12138/shiguangmao-releases@b0f4550c816e207d15a46a4ab2327421c5018722/dist/ShiGuangMao-1.0.53.dmg",
-  "https://fastly.jsdelivr.net/gh/Dino12138/shiguangmao-releases@b0f4550c816e207d15a46a4ab2327421c5018722/dist/ShiGuangMao-1.0.53.dmg",
-  "https://cdn.jsdelivr.net/gh/Dino12138/shiguangmao-releases@b0f4550c816e207d15a46a4ab2327421c5018722/dist/ShiGuangMao-1.0.53.dmg"
+  "https://gcore.jsdelivr.net/gh/Dino12138/shiguangmao-releases@264cbc8234d5a2e5e4966b60cd618c86f5adc2e6/dist/ShiGuangMao-1.0.54.dmg",
+  "https://fastly.jsdelivr.net/gh/Dino12138/shiguangmao-releases@264cbc8234d5a2e5e4966b60cd618c86f5adc2e6/dist/ShiGuangMao-1.0.54.dmg",
+  "https://cdn.jsdelivr.net/gh/Dino12138/shiguangmao-releases@264cbc8234d5a2e5e4966b60cd618c86f5adc2e6/dist/ShiGuangMao-1.0.54.dmg"
  ],
- "size": 15694070
+ "size": 13755982
 }
