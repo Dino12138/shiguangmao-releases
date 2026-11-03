@@ -1,13 +1,13 @@
 {
- "version": "1.0.48",
- "build": 57,
- "url": "https://github.com/Dino12138/shiguangmao-releases/releases/download/v1.0.48/ShiGuangMao-1.0.48.dmg",
- "sha256": "1aa756da7b4f6a97a20bc887e5c5ab70dedeb2ec67b71101da8ac5e3ad3fd530",
- "notes": "剪贴板支持自定义收藏夹：分类栏点 ＋ 新建，卡片上点 ☆ 选择收藏到哪个收藏夹，常用内容分类收藏、一点就能发送。",
+ "version": "1.0.49",
+ "build": 58,
+ "url": "https://github.com/Dino12138/shiguangmao-releases/releases/download/v1.0.49/ShiGuangMao-1.0.49.dmg",
+ "sha256": "580eae76aaf66cc79fefed3edc6010658ef10ff6646afc163d00516147c54212",
+ "notes": "截图时不再隐藏拾光猫自己的窗口；遇到设置了禁止截图的窗口（如微信部分窗口）会提示原因；更新后第一页显示本次更新内容。",
  "mirrors": [
-  "https://gcore.jsdelivr.net/gh/Dino12138/shiguangmao-releases@main/dist/ShiGuangMao-1.0.48.dmg",
-  "https://fastly.jsdelivr.net/gh/Dino12138/shiguangmao-releases@main/dist/ShiGuangMao-1.0.48.dmg",
-  "https://cdn.jsdelivr.net/gh/Dino12138/shiguangmao-releases@main/dist/ShiGuangMao-1.0.48.dmg"
+  "https://gcore.jsdelivr.net/gh/Dino12138/shiguangmao-releases@main/dist/ShiGuangMao-1.0.49.dmg",
+  "https://fastly.jsdelivr.net/gh/Dino12138/shiguangmao-releases@main/dist/ShiGuangMao-1.0.49.dmg",
+  "https://cdn.jsdelivr.net/gh/Dino12138/shiguangmao-releases@main/dist/ShiGuangMao-1.0.49.dmg"
  ],
- "size": 15681843
+ "size": 15687598
 }
