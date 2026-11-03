@@ -1,13 +1,13 @@
 {
- "version": "1.0.52",
- "build": 61,
- "url": "https://github.com/Dino12138/shiguangmao-releases/releases/download/v1.0.52/ShiGuangMao-1.0.52.dmg",
- "sha256": "19620cc94ff6a2f098bad3a45640fdecf3eeed771553751f4a1836dab2138c51",
- "notes": "修复部分电脑（连不上 GitHub）在线更新失败的问题；没有写入权限时可输入电脑密码完成更新；更新失败会自动上报原因。",
+ "version": "1.0.53",
+ "build": 62,
+ "url": "https://github.com/Dino12138/shiguangmao-releases/releases/download/v1.0.53/ShiGuangMao-1.0.53.dmg",
+ "sha256": "c17652d1e9b8b11e8bbb0088bfedb47aa213cb97539b7027f363fd5cc24c7c30",
+ "notes": "截图文字工具：回车换行，⌘回车或点别处完成；长文字自动折行",
  "mirrors": [
-  "https://gcore.jsdelivr.net/gh/Dino12138/shiguangmao-releases@bae70096f6ffd7dafd7535c7e8ee230cd50afcd7/dist/ShiGuangMao-1.0.52.dmg",
-  "https://fastly.jsdelivr.net/gh/Dino12138/shiguangmao-releases@bae70096f6ffd7dafd7535c7e8ee230cd50afcd7/dist/ShiGuangMao-1.0.52.dmg",
-  "https://cdn.jsdelivr.net/gh/Dino12138/shiguangmao-releases@bae70096f6ffd7dafd7535c7e8ee230cd50afcd7/dist/ShiGuangMao-1.0.52.dmg"
+  "https://gcore.jsdelivr.net/gh/Dino12138/shiguangmao-releases@b0f4550c816e207d15a46a4ab2327421c5018722/dist/ShiGuangMao-1.0.53.dmg",
+  "https://fastly.jsdelivr.net/gh/Dino12138/shiguangmao-releases@b0f4550c816e207d15a46a4ab2327421c5018722/dist/ShiGuangMao-1.0.53.dmg",
+  "https://cdn.jsdelivr.net/gh/Dino12138/shiguangmao-releases@b0f4550c816e207d15a46a4ab2327421c5018722/dist/ShiGuangMao-1.0.53.dmg"
  ],
- "size": 15692892
+ "size": 15694070
 }
