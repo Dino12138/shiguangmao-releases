@@ -1,13 +1,13 @@
 {
- "version": "1.0.50",
- "build": 59,
- "url": "https://github.com/Dino12138/shiguangmao-releases/releases/download/v1.0.50/ShiGuangMao-1.0.50.dmg",
- "sha256": "56d89393b53af88ba03123fc24350d72285e85e8269eab1b8ddb6dce9cff25c8",
- "notes": "紧急修复：1.0.49 一截图就闪退的问题，请尽快更新。",
+ "version": "1.0.51",
+ "build": 60,
+ "url": "https://github.com/Dino12138/shiguangmao-releases/releases/download/v1.0.51/ShiGuangMao-1.0.51.dmg",
+ "sha256": "5a3074b548582283d352fbfd2f57c8b59ff79788a1bb6bab4e2c217e83c8ae81",
+ "notes": "更新说明改为按版本分组、列出每个版本的具体改动（含剪贴板收藏夹的完整用法）；从菜单打开可查看全部历史更新。",
  "mirrors": [
-  "https://gcore.jsdelivr.net/gh/Dino12138/shiguangmao-releases@main/dist/ShiGuangMao-1.0.50.dmg",
-  "https://fastly.jsdelivr.net/gh/Dino12138/shiguangmao-releases@main/dist/ShiGuangMao-1.0.50.dmg",
-  "https://cdn.jsdelivr.net/gh/Dino12138/shiguangmao-releases@main/dist/ShiGuangMao-1.0.50.dmg"
+  "https://gcore.jsdelivr.net/gh/Dino12138/shiguangmao-releases@main/dist/ShiGuangMao-1.0.51.dmg",
+  "https://fastly.jsdelivr.net/gh/Dino12138/shiguangmao-releases@main/dist/ShiGuangMao-1.0.51.dmg",
+  "https://cdn.jsdelivr.net/gh/Dino12138/shiguangmao-releases@main/dist/ShiGuangMao-1.0.51.dmg"
  ],
- "size": 15686522
+ "size": 15687219
 }
