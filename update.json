@@ -1,13 +1,13 @@
 {
- "version": "1.0.57",
- "build": 66,
- "url": "https://github.com/Dino12138/shiguangmao-releases/releases/download/v1.0.57/ShiGuangMao-1.0.57.dmg",
- "sha256": "bd3fae7c5b3f79552d7a9b74dac92dc73a1e50e7eeee431b82eacf8ecfe3c0c7",
- "notes": "截图方框保持直角，钉图四角不再露白边",
+ "version": "1.0.58",
+ "build": 67,
+ "url": "https://github.com/Dino12138/shiguangmao-releases/releases/download/v1.0.58/ShiGuangMao-1.0.58.dmg",
+ "sha256": "7baa34d384a8fa9262ff24160e3d09651b012c504b60438f1ab77a6f0807a7e4",
+ "notes": "自动框选的窗口保留圆角且圆角外透明；手动方框保持直角",
  "mirrors": [
-  "https://gcore.jsdelivr.net/gh/Dino12138/shiguangmao-releases@0bbb19482fb9aa6c53e667cb9f23c53573e61e85/dist/ShiGuangMao-1.0.57.dmg",
-  "https://fastly.jsdelivr.net/gh/Dino12138/shiguangmao-releases@0bbb19482fb9aa6c53e667cb9f23c53573e61e85/dist/ShiGuangMao-1.0.57.dmg",
-  "https://cdn.jsdelivr.net/gh/Dino12138/shiguangmao-releases@0bbb19482fb9aa6c53e667cb9f23c53573e61e85/dist/ShiGuangMao-1.0.57.dmg"
+  "https://gcore.jsdelivr.net/gh/Dino12138/shiguangmao-releases@4a7a70926ffe51e821498aa7cdaaef1fb9ffc989/dist/ShiGuangMao-1.0.58.dmg",
+  "https://fastly.jsdelivr.net/gh/Dino12138/shiguangmao-releases@4a7a70926ffe51e821498aa7cdaaef1fb9ffc989/dist/ShiGuangMao-1.0.58.dmg",
+  "https://cdn.jsdelivr.net/gh/Dino12138/shiguangmao-releases@4a7a70926ffe51e821498aa7cdaaef1fb9ffc989/dist/ShiGuangMao-1.0.58.dmg"
  ],
- "size": 13773351
+ "size": 13775539
 }
