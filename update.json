@@ -1,0 +1,12 @@
+{
+ "version": "1.0.43",
+ "build": 52,
+ "url": "https://github.com/Dino12138/shiguangmao-releases/releases/download/v1.0.43/ShiGuangMao-1.0.43.dmg",
+ "sha256": "f36ac3249958c08b4b4fb98d068a130b4a4e5fef9c9419c2db55f282910fb786",
+ "notes": "在线更新增加国内备用线路，连不上 GitHub 也能检查和下载更新；点「检查更新」会立即提示正在检查。",
+ "mirrors": [
+  "https://gcore.jsdelivr.net/gh/Dino12138/shiguangmao-releases@main/dist/ShiGuangMao-1.0.43.dmg",
+  "https://fastly.jsdelivr.net/gh/Dino12138/shiguangmao-releases@main/dist/ShiGuangMao-1.0.43.dmg",
+  "https://cdn.jsdelivr.net/gh/Dino12138/shiguangmao-releases@main/dist/ShiGuangMao-1.0.43.dmg"
+ ]
+}
