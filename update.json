@@ -1,13 +1,13 @@
 {
- "version": "1.0.45",
- "build": 54,
- "url": "https://github.com/Dino12138/shiguangmao-releases/releases/download/v1.0.45/ShiGuangMao-1.0.45.dmg",
- "sha256": "917c052841fbc7946491fe64c5769acdbb5dc64d61a3059b120a43f77c2113bd",
- "notes": "修复意见反馈里视频发送失败的问题。",
+ "version": "1.0.46",
+ "build": 55,
+ "url": "https://github.com/Dino12138/shiguangmao-releases/releases/download/v1.0.46/ShiGuangMao-1.0.46.dmg",
+ "sha256": "d8eddabb84ec66f8c264dc3a3591a1cbd45c67f88997cf43c8dbd46f2a24471e",
+ "notes": "新版本功能介绍里加入刘海灵动岛的使用说明（首页、暂存与隔空投送、备忘提醒、番茄钟），可一键打开刘海看看。",
  "mirrors": [
-  "https://gcore.jsdelivr.net/gh/Dino12138/shiguangmao-releases@main/dist/ShiGuangMao-1.0.45.dmg",
-  "https://fastly.jsdelivr.net/gh/Dino12138/shiguangmao-releases@main/dist/ShiGuangMao-1.0.45.dmg",
-  "https://cdn.jsdelivr.net/gh/Dino12138/shiguangmao-releases@main/dist/ShiGuangMao-1.0.45.dmg"
+  "https://gcore.jsdelivr.net/gh/Dino12138/shiguangmao-releases@main/dist/ShiGuangMao-1.0.46.dmg",
+  "https://fastly.jsdelivr.net/gh/Dino12138/shiguangmao-releases@main/dist/ShiGuangMao-1.0.46.dmg",
+  "https://cdn.jsdelivr.net/gh/Dino12138/shiguangmao-releases@main/dist/ShiGuangMao-1.0.46.dmg"
  ],
- "size": 15230251
+ "size": 15635072
 }
