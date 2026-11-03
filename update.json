@@ -1,13 +1,13 @@
 {
- "version": "1.0.46",
- "build": 55,
- "url": "https://github.com/Dino12138/shiguangmao-releases/releases/download/v1.0.46/ShiGuangMao-1.0.46.dmg",
- "sha256": "d8eddabb84ec66f8c264dc3a3591a1cbd45c67f88997cf43c8dbd46f2a24471e",
- "notes": "新版本功能介绍里加入刘海灵动岛的使用说明（首页、暂存与隔空投送、备忘提醒、番茄钟），可一键打开刘海看看。",
+ "version": "1.0.47",
+ "build": 56,
+ "url": "https://github.com/Dino12138/shiguangmao-releases/releases/download/v1.0.47/ShiGuangMao-1.0.47.dmg",
+ "sha256": "45b55398b7293ad8281aeeddfb4c5616321859a938342f82342012d3430e8ef6",
+ "notes": "剪贴板卡片右上角新增收藏按钮（☆），收藏的内容清空历史时会保留。",
  "mirrors": [
-  "https://gcore.jsdelivr.net/gh/Dino12138/shiguangmao-releases@main/dist/ShiGuangMao-1.0.46.dmg",
-  "https://fastly.jsdelivr.net/gh/Dino12138/shiguangmao-releases@main/dist/ShiGuangMao-1.0.46.dmg",
-  "https://cdn.jsdelivr.net/gh/Dino12138/shiguangmao-releases@main/dist/ShiGuangMao-1.0.46.dmg"
+  "https://gcore.jsdelivr.net/gh/Dino12138/shiguangmao-releases@main/dist/ShiGuangMao-1.0.47.dmg",
+  "https://fastly.jsdelivr.net/gh/Dino12138/shiguangmao-releases@main/dist/ShiGuangMao-1.0.47.dmg",
+  "https://cdn.jsdelivr.net/gh/Dino12138/shiguangmao-releases@main/dist/ShiGuangMao-1.0.47.dmg"
  ],
- "size": 15635072
+ "size": 15694061
 }
