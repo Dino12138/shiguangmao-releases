@@ -1,13 +1,13 @@
 {
- "version": "1.0.61",
- "build": 70,
- "url": "https://github.com/Dino12138/shiguangmao-releases/releases/download/v1.0.61/ShiGuangMao-1.0.61.dmg",
- "sha256": "e4a28e744367a8900791ae0449c84694898b050f7e24b27923e1f85724a40577",
- "notes": "钉图可拖四角四边调大小；截图自动吸附支持浮动窗口；修复截图文本框拼音显示不全",
+ "version": "1.0.62",
+ "build": 71,
+ "url": "https://github.com/Dino12138/shiguangmao-releases/releases/download/v1.0.62/ShiGuangMao-1.0.62.dmg",
+ "sha256": "dd930cded9d1407beff0e44f9e217708b2630126d00206aa27a67ba0d9bac63d",
+ "notes": "钉图可回到标注界面修改：原标注可拖动修改，也能继续加新标注",
  "mirrors": [
-  "https://gcore.jsdelivr.net/gh/Dino12138/shiguangmao-releases@c268707fd62ec623658aedfeb35334bb935d7e7b/dist/ShiGuangMao-1.0.61.dmg",
-  "https://fastly.jsdelivr.net/gh/Dino12138/shiguangmao-releases@c268707fd62ec623658aedfeb35334bb935d7e7b/dist/ShiGuangMao-1.0.61.dmg",
-  "https://cdn.jsdelivr.net/gh/Dino12138/shiguangmao-releases@c268707fd62ec623658aedfeb35334bb935d7e7b/dist/ShiGuangMao-1.0.61.dmg"
+  "https://gcore.jsdelivr.net/gh/Dino12138/shiguangmao-releases@bdf3e68688afa7ab246acb6bd2c36ba44acfa99d/dist/ShiGuangMao-1.0.62.dmg",
+  "https://fastly.jsdelivr.net/gh/Dino12138/shiguangmao-releases@bdf3e68688afa7ab246acb6bd2c36ba44acfa99d/dist/ShiGuangMao-1.0.62.dmg",
+  "https://cdn.jsdelivr.net/gh/Dino12138/shiguangmao-releases@bdf3e68688afa7ab246acb6bd2c36ba44acfa99d/dist/ShiGuangMao-1.0.62.dmg"
  ],
- "size": 13782409
+ "size": 13794644
 }
