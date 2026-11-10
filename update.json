@@ -1,13 +1,13 @@
 {
- "version": "1.0.62",
- "build": 71,
- "url": "https://github.com/Dino12138/shiguangmao-releases/releases/download/v1.0.62/ShiGuangMao-1.0.62.dmg",
- "sha256": "dd930cded9d1407beff0e44f9e217708b2630126d00206aa27a67ba0d9bac63d",
- "notes": "钉图可回到标注界面修改：原标注可拖动修改，也能继续加新标注",
+ "version": "1.0.63",
+ "build": 72,
+ "url": "https://github.com/Dino12138/shiguangmao-releases/releases/download/v1.0.63/ShiGuangMao-1.0.63.dmg",
+ "sha256": "660a0f12f6cb96d061edc1f1c43d86f4b8dcbc2e724fec2c294ab9dca75b6573",
+ "notes": "在线更新安装前校验作者签名；修复翻译一直显示正在翻译或空白",
  "mirrors": [
-  "https://gcore.jsdelivr.net/gh/Dino12138/shiguangmao-releases@bdf3e68688afa7ab246acb6bd2c36ba44acfa99d/dist/ShiGuangMao-1.0.62.dmg",
-  "https://fastly.jsdelivr.net/gh/Dino12138/shiguangmao-releases@bdf3e68688afa7ab246acb6bd2c36ba44acfa99d/dist/ShiGuangMao-1.0.62.dmg",
-  "https://cdn.jsdelivr.net/gh/Dino12138/shiguangmao-releases@bdf3e68688afa7ab246acb6bd2c36ba44acfa99d/dist/ShiGuangMao-1.0.62.dmg"
+  "https://gcore.jsdelivr.net/gh/Dino12138/shiguangmao-releases@7d6a87d8e00cd9f1c731237f2837f0c7625dcb22/dist/ShiGuangMao-1.0.63.dmg",
+  "https://fastly.jsdelivr.net/gh/Dino12138/shiguangmao-releases@7d6a87d8e00cd9f1c731237f2837f0c7625dcb22/dist/ShiGuangMao-1.0.63.dmg",
+  "https://cdn.jsdelivr.net/gh/Dino12138/shiguangmao-releases@7d6a87d8e00cd9f1c731237f2837f0c7625dcb22/dist/ShiGuangMao-1.0.63.dmg"
  ],
- "size": 13794644
+ "size": 13816023
 }
