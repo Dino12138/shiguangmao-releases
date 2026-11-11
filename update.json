@@ -1,13 +1,13 @@
 {
- "version": "1.0.65",
- "build": 74,
- "url": "https://github.com/Dino12138/shiguangmao-releases/releases/download/v1.0.65/ShiGuangMao-1.0.65.dmg",
- "sha256": "a2169e4e9eb8e541e58a6a1c075824a24f291935ff05008ca1b5950af5a875f4",
- "notes": "尺寸标注：端点靠近其他尺寸线时自动对齐（粉色参考线）；拖文字框时标注线自动对齐或等距排开",
+ "version": "1.0.66",
+ "build": 75,
+ "url": "https://github.com/Dino12138/shiguangmao-releases/releases/download/v1.0.66/ShiGuangMao-1.0.66.dmg",
+ "sha256": "9cc99a8146dc5134e1b2e1cf2e16ead4581c600b9857738ca3b845578aa4ff15",
+ "notes": "尺寸标注按制图规范重做：端点自动吸附物体边缘和角（按住⌥关闭）；引线长度受限不再穿过物体；短距离箭头翻到外侧；多条标注自动按固定间距排列",
  "mirrors": [
-  "https://gcore.jsdelivr.net/gh/Dino12138/shiguangmao-releases@58fa11740955d45764ecc0e32d63dcd750a2bb40/dist/ShiGuangMao-1.0.65.dmg",
-  "https://fastly.jsdelivr.net/gh/Dino12138/shiguangmao-releases@58fa11740955d45764ecc0e32d63dcd750a2bb40/dist/ShiGuangMao-1.0.65.dmg",
-  "https://cdn.jsdelivr.net/gh/Dino12138/shiguangmao-releases@58fa11740955d45764ecc0e32d63dcd750a2bb40/dist/ShiGuangMao-1.0.65.dmg"
+  "https://gcore.jsdelivr.net/gh/Dino12138/shiguangmao-releases@578c7b465e3e8fbcd3b00f20a3e7e66fe11599dc/dist/ShiGuangMao-1.0.66.dmg",
+  "https://fastly.jsdelivr.net/gh/Dino12138/shiguangmao-releases@578c7b465e3e8fbcd3b00f20a3e7e66fe11599dc/dist/ShiGuangMao-1.0.66.dmg",
+  "https://cdn.jsdelivr.net/gh/Dino12138/shiguangmao-releases@578c7b465e3e8fbcd3b00f20a3e7e66fe11599dc/dist/ShiGuangMao-1.0.66.dmg"
  ],
- "size": 13809973
+ "size": 13812450
 }
