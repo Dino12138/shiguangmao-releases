@@ -1,13 +1,13 @@
 {
- "version": "1.0.63",
- "build": 72,
- "url": "https://github.com/Dino12138/shiguangmao-releases/releases/download/v1.0.63/ShiGuangMao-1.0.63.dmg",
- "sha256": "660a0f12f6cb96d061edc1f1c43d86f4b8dcbc2e724fec2c294ab9dca75b6573",
- "notes": "在线更新安装前校验作者签名；修复翻译一直显示正在翻译或空白",
+ "version": "1.0.64",
+ "build": 73,
+ "url": "https://github.com/Dino12138/shiguangmao-releases/releases/download/v1.0.64/ShiGuangMao-1.0.64.dmg",
+ "sha256": "e7618e6d14c3cf20c208798f2a55baefe7eba2518389d92bc3fb1f7568f9964a",
+ "notes": "尺寸标注：按住 Shift 拖端点或点第二个点，自动吸附水平、垂直或 45° 方向",
  "mirrors": [
-  "https://gcore.jsdelivr.net/gh/Dino12138/shiguangmao-releases@7d6a87d8e00cd9f1c731237f2837f0c7625dcb22/dist/ShiGuangMao-1.0.63.dmg",
-  "https://fastly.jsdelivr.net/gh/Dino12138/shiguangmao-releases@7d6a87d8e00cd9f1c731237f2837f0c7625dcb22/dist/ShiGuangMao-1.0.63.dmg",
-  "https://cdn.jsdelivr.net/gh/Dino12138/shiguangmao-releases@7d6a87d8e00cd9f1c731237f2837f0c7625dcb22/dist/ShiGuangMao-1.0.63.dmg"
+  "https://gcore.jsdelivr.net/gh/Dino12138/shiguangmao-releases@f87cf87bba28997e4a51447a4e2c163114fce673/dist/ShiGuangMao-1.0.64.dmg",
+  "https://fastly.jsdelivr.net/gh/Dino12138/shiguangmao-releases@f87cf87bba28997e4a51447a4e2c163114fce673/dist/ShiGuangMao-1.0.64.dmg",
+  "https://cdn.jsdelivr.net/gh/Dino12138/shiguangmao-releases@f87cf87bba28997e4a51447a4e2c163114fce673/dist/ShiGuangMao-1.0.64.dmg"
  ],
- "size": 13816023
+ "size": 13805386
 }
