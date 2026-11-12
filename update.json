@@ -1,13 +1,13 @@
 {
- "version": "1.0.67",
- "build": 76,
- "url": "https://github.com/Dino12138/shiguangmao-releases/releases/download/v1.0.67/ShiGuangMao-1.0.67.dmg",
- "sha256": "f5127e84b933b6fcf3a9ceff984f5c1665b5ee8f7547e8eb732ecbd700c89ef8",
- "notes": "重做改为 ⌃Z（⌘⇧Z 仍可用）；改颜色/线宽/字号/主题、改文字都能撤销重做",
+ "version": "1.0.68",
+ "build": 77,
+ "url": "https://github.com/Dino12138/shiguangmao-releases/releases/download/v1.0.68/ShiGuangMao-1.0.68.dmg",
+ "sha256": "4d09bcf62f1ba742ee868b5a10d686424aeed6e8f118af277413f61eb20229c8",
+ "notes": "尺寸标注：点下第一个点后，经过已有标注不再变小手、不会误选，第二个点放哪都能直接点下",
  "mirrors": [
-  "https://gcore.jsdelivr.net/gh/Dino12138/shiguangmao-releases@b54e867ad7315a2ae2a85d9d6a22d7ce9f4ef216/dist/ShiGuangMao-1.0.67.dmg",
-  "https://fastly.jsdelivr.net/gh/Dino12138/shiguangmao-releases@b54e867ad7315a2ae2a85d9d6a22d7ce9f4ef216/dist/ShiGuangMao-1.0.67.dmg",
-  "https://cdn.jsdelivr.net/gh/Dino12138/shiguangmao-releases@b54e867ad7315a2ae2a85d9d6a22d7ce9f4ef216/dist/ShiGuangMao-1.0.67.dmg"
+  "https://gcore.jsdelivr.net/gh/Dino12138/shiguangmao-releases@d79b43347b09a533f8ab9cbd262b1f13e0828c58/dist/ShiGuangMao-1.0.68.dmg",
+  "https://fastly.jsdelivr.net/gh/Dino12138/shiguangmao-releases@d79b43347b09a533f8ab9cbd262b1f13e0828c58/dist/ShiGuangMao-1.0.68.dmg",
+  "https://cdn.jsdelivr.net/gh/Dino12138/shiguangmao-releases@d79b43347b09a533f8ab9cbd262b1f13e0828c58/dist/ShiGuangMao-1.0.68.dmg"
  ],
- "size": 13828324
+ "size": 13828911
 }
