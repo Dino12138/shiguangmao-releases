@@ -1,13 +1,13 @@
 {
- "version": "1.0.68",
- "build": 77,
- "url": "https://github.com/Dino12138/shiguangmao-releases/releases/download/v1.0.68/ShiGuangMao-1.0.68.dmg",
- "sha256": "4d09bcf62f1ba742ee868b5a10d686424aeed6e8f118af277413f61eb20229c8",
- "notes": "尺寸标注：点下第一个点后，经过已有标注不再变小手、不会误选，第二个点放哪都能直接点下",
+ "version": "1.0.69",
+ "build": 78,
+ "url": "https://github.com/Dino12138/shiguangmao-releases/releases/download/v1.0.69/ShiGuangMao-1.0.69.dmg",
+ "sha256": "d7ab49f3214bf02e97761906b514070c2a84afcac23a7869ade85b6d70f5704a",
+ "notes": "修复偶尔卡死、截图没反应（其他软件复制内容卡住时会连带卡死）；修复后台空转占满 CPU",
  "mirrors": [
-  "https://gcore.jsdelivr.net/gh/Dino12138/shiguangmao-releases@d79b43347b09a533f8ab9cbd262b1f13e0828c58/dist/ShiGuangMao-1.0.68.dmg",
-  "https://fastly.jsdelivr.net/gh/Dino12138/shiguangmao-releases@d79b43347b09a533f8ab9cbd262b1f13e0828c58/dist/ShiGuangMao-1.0.68.dmg",
-  "https://cdn.jsdelivr.net/gh/Dino12138/shiguangmao-releases@d79b43347b09a533f8ab9cbd262b1f13e0828c58/dist/ShiGuangMao-1.0.68.dmg"
+  "https://gcore.jsdelivr.net/gh/Dino12138/shiguangmao-releases@e54c16ab5b758d25a1923a0301e669b280604dc3/dist/ShiGuangMao-1.0.69.dmg",
+  "https://fastly.jsdelivr.net/gh/Dino12138/shiguangmao-releases@e54c16ab5b758d25a1923a0301e669b280604dc3/dist/ShiGuangMao-1.0.69.dmg",
+  "https://cdn.jsdelivr.net/gh/Dino12138/shiguangmao-releases@e54c16ab5b758d25a1923a0301e669b280604dc3/dist/ShiGuangMao-1.0.69.dmg"
  ],
- "size": 13828911
+ "size": 13829750
 }
