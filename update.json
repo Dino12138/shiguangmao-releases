@@ -1,13 +1,13 @@
 {
- "version": "1.0.69",
- "build": 78,
- "url": "https://github.com/Dino12138/shiguangmao-releases/releases/download/v1.0.69/ShiGuangMao-1.0.69.dmg",
- "sha256": "d7ab49f3214bf02e97761906b514070c2a84afcac23a7869ade85b6d70f5704a",
- "notes": "修复偶尔卡死、截图没反应（其他软件复制内容卡住时会连带卡死）；修复后台空转占满 CPU",
+ "version": "1.0.71",
+ "build": 80,
+ "url": "https://github.com/Dino12138/shiguangmao-releases/releases/download/v1.0.71/ShiGuangMao-1.0.71.dmg",
+ "sha256": "535a1c160e0c8ec6e473cc11ee4403ae1678e4ae9ff1492d4a30f2881488f77d",
+ "notes": "去掉 Claude Code「钩子没给答复」提醒；修复中英混排翻译没有结果",
  "mirrors": [
-  "https://gcore.jsdelivr.net/gh/Dino12138/shiguangmao-releases@e54c16ab5b758d25a1923a0301e669b280604dc3/dist/ShiGuangMao-1.0.69.dmg",
-  "https://fastly.jsdelivr.net/gh/Dino12138/shiguangmao-releases@e54c16ab5b758d25a1923a0301e669b280604dc3/dist/ShiGuangMao-1.0.69.dmg",
-  "https://cdn.jsdelivr.net/gh/Dino12138/shiguangmao-releases@e54c16ab5b758d25a1923a0301e669b280604dc3/dist/ShiGuangMao-1.0.69.dmg"
+  "https://gcore.jsdelivr.net/gh/Dino12138/shiguangmao-releases@77556de1acf268f4d3c923992fa610244bef6132/dist/ShiGuangMao-1.0.71.dmg",
+  "https://fastly.jsdelivr.net/gh/Dino12138/shiguangmao-releases@77556de1acf268f4d3c923992fa610244bef6132/dist/ShiGuangMao-1.0.71.dmg",
+  "https://cdn.jsdelivr.net/gh/Dino12138/shiguangmao-releases@77556de1acf268f4d3c923992fa610244bef6132/dist/ShiGuangMao-1.0.71.dmg"
  ],
- "size": 13829750
+ "size": 13834256
 }
