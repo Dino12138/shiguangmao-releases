@@ -1,13 +1,13 @@
 {
- "version": "1.0.71",
- "build": 80,
- "url": "https://github.com/Dino12138/shiguangmao-releases/releases/download/v1.0.71/ShiGuangMao-1.0.71.dmg",
- "sha256": "535a1c160e0c8ec6e473cc11ee4403ae1678e4ae9ff1492d4a30f2881488f77d",
- "notes": "去掉 Claude Code「钩子没给答复」提醒；修复中英混排翻译没有结果",
+ "version": "1.0.72",
+ "build": 81,
+ "url": "https://github.com/Dino12138/shiguangmao-releases/releases/download/v1.0.72/ShiGuangMao-1.0.72.dmg",
+ "sha256": "cabf27f74e40384f6b2f923e1ab69364da3c457dd9d51de457e90bd423714499",
+ "notes": "使用指南：刘海右上角按钮说明扩成两页，逐个讲清网速、星巴克Wi‑Fi、永久亮屏、截图、识字、录屏、设置",
  "mirrors": [
-  "https://gcore.jsdelivr.net/gh/Dino12138/shiguangmao-releases@77556de1acf268f4d3c923992fa610244bef6132/dist/ShiGuangMao-1.0.71.dmg",
-  "https://fastly.jsdelivr.net/gh/Dino12138/shiguangmao-releases@77556de1acf268f4d3c923992fa610244bef6132/dist/ShiGuangMao-1.0.71.dmg",
-  "https://cdn.jsdelivr.net/gh/Dino12138/shiguangmao-releases@77556de1acf268f4d3c923992fa610244bef6132/dist/ShiGuangMao-1.0.71.dmg"
+  "https://gcore.jsdelivr.net/gh/Dino12138/shiguangmao-releases@f16263b62c0cc14a03dea74242b3ef305e1401b8/dist/ShiGuangMao-1.0.72.dmg",
+  "https://fastly.jsdelivr.net/gh/Dino12138/shiguangmao-releases@f16263b62c0cc14a03dea74242b3ef305e1401b8/dist/ShiGuangMao-1.0.72.dmg",
+  "https://cdn.jsdelivr.net/gh/Dino12138/shiguangmao-releases@f16263b62c0cc14a03dea74242b3ef305e1401b8/dist/ShiGuangMao-1.0.72.dmg"
  ],
- "size": 13834256
+ "size": 13842137
 }
