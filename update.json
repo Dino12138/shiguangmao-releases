@@ -1,13 +1,13 @@
 {
- "version": "1.0.72",
- "build": 81,
- "url": "https://github.com/Dino12138/shiguangmao-releases/releases/download/v1.0.72/ShiGuangMao-1.0.72.dmg",
- "sha256": "cabf27f74e40384f6b2f923e1ab69364da3c457dd9d51de457e90bd423714499",
- "notes": "使用指南：刘海右上角按钮说明扩成两页，逐个讲清网速、星巴克Wi‑Fi、永久亮屏、截图、识字、录屏、设置",
+ "version": "1.0.73",
+ "build": 82,
+ "url": "https://github.com/Dino12138/shiguangmao-releases/releases/download/v1.0.73/ShiGuangMao-1.0.73.dmg",
+ "sha256": "626e0f82160bff8c8c281892a34488bdab7ce237d6b2156a5042fd7f069a3829",
+ "notes": "录屏不会再因为退出软件而丢失：退出前先保存；被强制关闭的录屏下次打开自动找回",
  "mirrors": [
-  "https://gcore.jsdelivr.net/gh/Dino12138/shiguangmao-releases@f16263b62c0cc14a03dea74242b3ef305e1401b8/dist/ShiGuangMao-1.0.72.dmg",
-  "https://fastly.jsdelivr.net/gh/Dino12138/shiguangmao-releases@f16263b62c0cc14a03dea74242b3ef305e1401b8/dist/ShiGuangMao-1.0.72.dmg",
-  "https://cdn.jsdelivr.net/gh/Dino12138/shiguangmao-releases@f16263b62c0cc14a03dea74242b3ef305e1401b8/dist/ShiGuangMao-1.0.72.dmg"
+  "https://gcore.jsdelivr.net/gh/Dino12138/shiguangmao-releases@7d1caadc7a3645d7f523a38508208e5b2eb81565/dist/ShiGuangMao-1.0.73.dmg",
+  "https://fastly.jsdelivr.net/gh/Dino12138/shiguangmao-releases@7d1caadc7a3645d7f523a38508208e5b2eb81565/dist/ShiGuangMao-1.0.73.dmg",
+  "https://cdn.jsdelivr.net/gh/Dino12138/shiguangmao-releases@7d1caadc7a3645d7f523a38508208e5b2eb81565/dist/ShiGuangMao-1.0.73.dmg"
  ],
- "size": 13842137
+ "size": 13853466
 }
