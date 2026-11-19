@@ -1,13 +1,13 @@
 {
- "version": "1.0.73",
- "build": 82,
- "url": "https://github.com/Dino12138/shiguangmao-releases/releases/download/v1.0.73/ShiGuangMao-1.0.73.dmg",
- "sha256": "626e0f82160bff8c8c281892a34488bdab7ce237d6b2156a5042fd7f069a3829",
- "notes": "录屏不会再因为退出软件而丢失：退出前先保存；被强制关闭的录屏下次打开自动找回",
+ "version": "1.0.74",
+ "build": 83,
+ "url": "https://github.com/Dino12138/shiguangmao-releases/releases/download/v1.0.74/ShiGuangMao-1.0.74.dmg",
+ "sha256": "37ac570453e1f7be38aa7a6eeec7f9155b2243020aeacad9ac74b0312dacb9dc",
+ "notes": "全屏时也能用翻译：翻译、识字、分享窗口直接出现在全屏画面上；新增卡顿记录，方便查原因",
  "mirrors": [
-  "https://gcore.jsdelivr.net/gh/Dino12138/shiguangmao-releases@7d1caadc7a3645d7f523a38508208e5b2eb81565/dist/ShiGuangMao-1.0.73.dmg",
-  "https://fastly.jsdelivr.net/gh/Dino12138/shiguangmao-releases@7d1caadc7a3645d7f523a38508208e5b2eb81565/dist/ShiGuangMao-1.0.73.dmg",
-  "https://cdn.jsdelivr.net/gh/Dino12138/shiguangmao-releases@7d1caadc7a3645d7f523a38508208e5b2eb81565/dist/ShiGuangMao-1.0.73.dmg"
+  "https://gcore.jsdelivr.net/gh/Dino12138/shiguangmao-releases@bb05ffcaf2dd409198a2d6d501f899d5938d4183/dist/ShiGuangMao-1.0.74.dmg",
+  "https://fastly.jsdelivr.net/gh/Dino12138/shiguangmao-releases@bb05ffcaf2dd409198a2d6d501f899d5938d4183/dist/ShiGuangMao-1.0.74.dmg",
+  "https://cdn.jsdelivr.net/gh/Dino12138/shiguangmao-releases@bb05ffcaf2dd409198a2d6d501f899d5938d4183/dist/ShiGuangMao-1.0.74.dmg"
  ],
- "size": 13853466
+ "size": 13863623
 }
