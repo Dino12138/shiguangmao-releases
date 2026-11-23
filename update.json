@@ -1,13 +1,23 @@
 {
- "version": "1.0.74",
- "build": 83,
- "url": "https://github.com/Dino12138/shiguangmao-releases/releases/download/v1.0.74/ShiGuangMao-1.0.74.dmg",
- "sha256": "37ac570453e1f7be38aa7a6eeec7f9155b2243020aeacad9ac74b0312dacb9dc",
- "notes": "全屏时也能用翻译：翻译、识字、分享窗口直接出现在全屏画面上；新增卡顿记录，方便查原因",
+ "version": "1.0.75",
+ "build": 84,
+ "notes": "支持 Intel 芯片（下载页同时提供 M 芯片版和 Intel 版，自动更新按芯片下载）；有新版本时菜单栏小猫亮红点、刘海显示「新版本」标签，软件一直开着也每天检查一次",
+ "url": "https://github.com/Dino12138/shiguangmao-releases/releases/download/v1.0.75/ShiGuangMao-1.0.75-Intel.dmg",
+ "sha256": "e03eff452bae956f7a5ae16a259e8c723cbeb0e0a96e253ae84c130ae342338f",
  "mirrors": [
-  "https://gcore.jsdelivr.net/gh/Dino12138/shiguangmao-releases@bb05ffcaf2dd409198a2d6d501f899d5938d4183/dist/ShiGuangMao-1.0.74.dmg",
-  "https://fastly.jsdelivr.net/gh/Dino12138/shiguangmao-releases@bb05ffcaf2dd409198a2d6d501f899d5938d4183/dist/ShiGuangMao-1.0.74.dmg",
-  "https://cdn.jsdelivr.net/gh/Dino12138/shiguangmao-releases@bb05ffcaf2dd409198a2d6d501f899d5938d4183/dist/ShiGuangMao-1.0.74.dmg"
+  "https://gcore.jsdelivr.net/gh/Dino12138/shiguangmao-releases@be8d4eb8adbd477822787e4b73a74fcc50acdfee/dist/ShiGuangMao-1.0.75-Intel.dmg",
+  "https://fastly.jsdelivr.net/gh/Dino12138/shiguangmao-releases@be8d4eb8adbd477822787e4b73a74fcc50acdfee/dist/ShiGuangMao-1.0.75-Intel.dmg",
+  "https://cdn.jsdelivr.net/gh/Dino12138/shiguangmao-releases@be8d4eb8adbd477822787e4b73a74fcc50acdfee/dist/ShiGuangMao-1.0.75-Intel.dmg"
  ],
- "size": 13863623
+ "size": 16203623,
+ "arm64": {
+  "url": "https://github.com/Dino12138/shiguangmao-releases/releases/download/v1.0.75/ShiGuangMao-1.0.75.dmg",
+  "sha256": "7922e9b5f44f4c7b344a30963ba0e425071f9c924d17802353131bdf3fecac19",
+  "mirrors": [
+   "https://gcore.jsdelivr.net/gh/Dino12138/shiguangmao-releases@be8d4eb8adbd477822787e4b73a74fcc50acdfee/dist/ShiGuangMao-1.0.75.dmg",
+   "https://fastly.jsdelivr.net/gh/Dino12138/shiguangmao-releases@be8d4eb8adbd477822787e4b73a74fcc50acdfee/dist/ShiGuangMao-1.0.75.dmg",
+   "https://cdn.jsdelivr.net/gh/Dino12138/shiguangmao-releases@be8d4eb8adbd477822787e4b73a74fcc50acdfee/dist/ShiGuangMao-1.0.75.dmg"
+  ],
+  "size": 13874400
+ }
 }
